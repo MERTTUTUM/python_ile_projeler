@@ -17,7 +17,7 @@
 ### MEVCUT PROJELER
 - [Görüntü Birleştirme](#görüntü-birleştirme)
 - [Linkedin Otomasyon](#linkedin-otomasyon)
-- [PDF Birleştirme](#pdf-birlestirme)
+- [PDF Birleştirme](#pdf-birleştirme)
 - [QR CODE Oluşturma](#qr-code-oluşturma)
 - [Son Dakika Haberler](#son-dakika-haberler)
 - [Web Kazıma-Scraping](#web-kazıma-scraping)
