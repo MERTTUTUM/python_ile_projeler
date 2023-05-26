@@ -15,7 +15,7 @@
 
 
 ### MEVCUT PROJELER
-- [Görüntü Birleştirme](####görüntü-birleştirme)
+- [Görüntü Birleştirme](#görüntü-birleştirme)
 - [Linkedin Otomasyon](####linkedin-otomasyon)
 - [PDF Birleştirme](####pdf-birlestirme)
 - [QR CODE Oluşturma](####qrcode-oluşturma)
@@ -24,7 +24,7 @@
 - [Yazı Okuyucu](####yazı-okuyucu)
 
 
-#### Görüntü Birleştirme
+# Görüntü Birleştirme
 Pillow kütüphanesini kullanarak iki görseli birleştirme.
 
 
