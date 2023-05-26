@@ -11,11 +11,11 @@
 
 
 # PYTHON İLE GELİŞMİŞ PROJELER
-Merhaba, Bu depoda farklı kütüphanelerle oluşturulmuş basit ve orta ölçekli projeleri göreceksiniz.
+*Merhaba, Bu depoda farklı kütüphanelerle oluşturulmuş basit ve orta ölçekli projeleri göreceksiniz.*
 
 
 ### MEVCUT PROJELER
-- [Görüntü Birleştirme](görüntü-birleştirme)
+- [Görüntü Birleştirme](####görüntü-birleştirme)
 - [Linkedin Otomasyon](####linkedin-otomasyon)
 - [PDF Birleştirme](####pdf-birlestirme)
 - [QR CODE Oluşturma](####qrcode-oluşturma)
