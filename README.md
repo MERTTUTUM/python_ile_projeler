@@ -18,9 +18,9 @@
 - [Görüntü Birleştirme](#görüntü-birleştirme)
 - [Linkedin Otomasyon](#linkedin-otomasyon)
 - [PDF Birleştirme](#pdf-birlestirme)
-- [QR CODE Oluşturma](#qrcode-oluşturma)
-- [Son Dakika Haberler](#sondakika-haberler)
-- [Web Kazıma-Scraping](#webkazıma-scraping)
+- [QR CODE Oluşturma](#qr-code-oluşturma)
+- [Son Dakika Haberler](#son-dakika-haberler)
+- [Web Kazıma-Scraping](#web-kazıma-scraping)
 - [Yazı Okuyucu](#yazı-okuyucu)
 
 
